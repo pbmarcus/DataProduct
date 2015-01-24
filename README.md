@@ -8,7 +8,7 @@ The following sources of information are available:
 - source code for this application is available on [Github](https://github.com/pbmarcus/DataProduct)
 - the documentation on [RPubs](http://rpubs.com/pbmarcus/dataproduct)
 
-In order to run my application, the following packages need to be installed:
+In order to run the application, the following packages need to be installed:
 - ggplot2
 - googleVis
 - shiny
