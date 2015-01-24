@@ -12,4 +12,4 @@ In order to run the application, the following packages need to be installed:
 - ggplot2
 - googleVis
 - shiny
-- and the data set comes from R internals.
+the data set comes from R internals.
